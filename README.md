@@ -7,7 +7,7 @@ Drone plugin to clone `git` repositories.
 Build the Docker image with the following commands:
 
 ```
-docker build --rm -f docker/Dockerfile.linux.amd64 -t drone/git .
+docker build --rm -f docker/Dockerfile.linux.amd64 -t 595659439703.dkr.ecr.eu-west-1.amazonaws.com/drone-git:1.3-3 .
 ```
 
 ## Usage
